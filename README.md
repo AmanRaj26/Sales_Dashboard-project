@@ -35,5 +35,6 @@ Payment Mode: A significant portion of sales (43%) comes through online payments
 High-Performing Segments: The consumer segment leads with 48% (753K) of total sales. Focused promotions in this segment can boost revenue further.
 Top Categories: Phones (200K) and Chairs (180K) are the best-selling sub-categories. These products can be prioritized in inventory management and marketing campaigns.
 Monthly Trends: Sales and profits show a sharp increase during the latter months, particularly in November and December, indicating the influence of holiday shopping seasons. Companies should launch targeted promotions during these months to capitalize on higher demand.
-Contributing
+
+**Contributing**
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
