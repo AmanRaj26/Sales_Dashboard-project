@@ -7,7 +7,8 @@ KPIs and Metrics: Track key metrics such as total sales (1.6M), profit (175K), a
 Drill-Down Analysis: Detailed breakdown of sales by regions, payment modes, product categories, and sub-categories.
 Filters: Customize the view by filtering data based on region (Central, East, South, West), segment, or other criteria.
 Time Series Trends: View sales and profit trends over time, helping to identify seasonality and sales peaks.
-**Project Structure
+
+**Project Structure**
 plaintext
 Copy code
 /Sales_Dashboard/                  # Power BI dashboard file (.pbix)
